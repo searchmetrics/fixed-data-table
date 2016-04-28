@@ -44,7 +44,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/searchmetrics/fixed-data-table.git"
+    "url": "git@github.com:searchmetrics/fixed-data-table.git"
   },
   "license": "BSD-3-Clause",
   "bugs": {
