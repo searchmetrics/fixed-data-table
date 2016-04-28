@@ -1,6 +1,6 @@
 {
   "name": "fixed-data-table",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "description": "A React table component designed to allow presenting thousands of rows of data.",
   "main": "main.js",
   "peerDependencies": {
@@ -44,11 +44,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/fixed-data-table.git"
+    "url": "https://github.com/searchmetrics/fixed-data-table.git"
   },
   "license": "BSD-3-Clause",
   "bugs": {
     "url": "https://github.com/facebook/fixed-data-table/issues"
+  },
+  "publishConfig": {
+    "registry": "http://172.23.254.203/content/repositories/npm-internal/"
   },
   "homepage": "http://facebook.github.io/fixed-data-table",
   "tags": [
