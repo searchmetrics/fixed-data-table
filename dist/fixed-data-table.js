@@ -1,5 +1,5 @@
 /**
- * FixedDataTable v0.6.2 
+ * FixedDataTable v0.6.3 
  *
  * Copyright (c) 2015, Facebook, Inc.
  * All rights reserved.
@@ -187,7 +187,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	  Table: FixedDataTable
 	};
 
-	FixedDataTableRoot.version = '0.6.2';
+	FixedDataTableRoot.version = '0.6.3';
 	module.exports = FixedDataTableRoot;
 
 /***/ },
